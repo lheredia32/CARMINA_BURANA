@@ -1,0 +1,37 @@
+body{
+    background-color: black!important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container .card .card-body p .txt1 {
+    color: red;
+}
+
+.container .card .card-body p a {
+    color: green;
+}
+
+.container .card .card-body p a:hover {
+    font-weight: bold;
+}
+
+.container .card .card-body p .txt2 {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    font-weight: 400;
+}
+
+.container .card .card-body p .txt3 {
+    font-size: 25px;
+}
+
+.container .card .card-body p .txt4 {
+    color: blue;
+}
+
+.container .card .card-body p .txt5 {
+    color: red;
+    text-decoration-line: underline;
+}
